@@ -22,11 +22,10 @@
         }
     ],
     
-    "images": {
-        [
-            "https://upload.wikimedia.org/wikipedia/commons/e/e6/Nidaros-cathedral-west-front.jpg",
-            "http://glacierhub.org/wp-content/uploads/2016/04/455405648_c8e098de59_o.jpg",
-            "http://www.lostshipofthedesert.com/wp-content/uploads/2016/08/weird-things-people-buried-with-s2048x1399-p.jpg",
-            "https://res-3.cloudinary.com/simpleview/image/upload/c_limit,f_auto,h_1200,q_75,w_1200/v1/clients/norway/unesco-geirangerfjord-skagefla-waterfall_bd5e3234-a7f8-4616-a6cf-ed8a4a1fab9e.jpg"
-        ]
-    }
+    "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/e/e6/Nidaros-cathedral-west-front.jpg",
+                "http://glacierhub.org/wp-content/uploads/2016/04/455405648_c8e098de59_o.jpg",
+                "http://www.lostshipofthedesert.com/wp-content/uploads/2016/08/weird-things-people-buried-with-s2048x1399-p.jpg",
+                "https://res-3.cloudinary.com/simpleview/image/upload/c_limit,f_auto,h_1200,q_75,w_1200/v1/clients/norway/unesco-geirangerfjord-skagefla-waterfall_bd5e3234-a7f8-4616-a6cf-ed8a4a1fab9e.jpg"
+            ]
+}
