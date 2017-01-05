@@ -1,22 +1,32 @@
-[
-    {
-        "title": "Nidaros Cathedral",
-        "quote": "Scandinavia’s largest medieval building",
-        "description": "While William the Conqueror was busy invading Great Britain in 1066, the Vikings were occupied with building Nidaros Cathedral in Trondheim. Nearly 1,000 years later, the cathedral is Norway’s most important church and Scandinavia’s largest medieval building. The cathedral was built to honor Olav, a Viking chieftain who later became a king and a saint. Olav was killed in a battle near Trondheim in 1030; his nephew began constructing the Nidaros Cathedral in 1066 to house his body; it was basically finished in 1090, though enlargements continued until the 1300s. The cathedral soon became an important pilgrimage destination in Norway."
-    }, 
-    {
-        "title": "Jostedalsbreen Glacier",
-        "quote": "the largest glacier in Europe",
-        "description": "Icy and scenic is perhaps the best way to describe Jostedalsbreen Glacier, the largest glacier in Europe. Situated in southern Norway, the glacier is surrounded by Jostedalsbreen Glacier National Park. Many, many years ago, locals could cross the glacier on foot, perhaps herding animals on their way to market, but this isn’t possible today as the glacier has shrunk significantly. Hiking and glacial skiing is allowed, but sportsmen need to be well prepared as these activities can be dangerous. It is much safer, and just as pretty, to take one of the walking tours around the park."
-    }, 
-    {
-        "title": "Viking Ship Museum",
-        "quote": "showcases some of the greatest ninth century ships",
-        "description": "Many centuries ago, the Vikings sailed the northern seas, striking fear in the hearts of the region these fierce warriors were about to invade. Today, visitors can view, unafraid, some of these terror-causing vessels as the Viking Ship Museum in Oslo showcases some of these great ninth century ships. The list includes ships from Gokstad, Oseberg and Tune, including two of the best preserved wooden ships in the world from that era. The Oseberg ship is the best preserved and was found in a burial mound on a farm near Oseberg. The museum also displays textiles, tools and household items as well as items found in Viking tombs."
-    },
-    {
-        "title": "Geirangerfjord",
-        "quote": "a natural wonder of deep blue water",
-        "description": "The most famous tourist attractions in Norway are probably it fjords. Among the most beautiful of these fjords is Geirangerfjord, located in southwestern Norway near the coastal town of Ålesund. Stretching for more than 15 km (9 miles) long, Geirangerfjord is a natural wonder of deep blue water surrounded by majestic cliffs and lush green mountains towering more than 1,000 meters (3,500 feet) high. Adding to the spectacular scenery are several stunning waterfalls and lush countryside dotted with picturesque farms."
+{
+    "articles": [
+        {
+            "title": "Nidaros Cathedral",
+            "quote": "Scandinavia’s largest medieval building",
+            "description": "While William the Conqueror was busy invading Great Britain in 1066, the Vikings were occupied with building Nidaros Cathedral in Trondheim. Nearly 1,000 years later, the cathedral is Norway’s most important church and Scandinavia’s largest medieval building. The cathedral was built to honor Olav, a Viking chieftain who later became a king and a saint. Olav was killed in a battle near Trondheim in 1030; his nephew began constructing the Nidaros Cathedral in 1066 to house his body; it was basically finished in 1090, though enlargements continued until the 1300s. The cathedral soon became an important pilgrimage destination in Norway."
+        }, 
+        {
+            "title": "Jostedalsbreen Glacier",
+            "quote": "the largest glacier in Europe",
+            "description": "Icy and scenic is perhaps the best way to describe Jostedalsbreen Glacier, the largest glacier in Europe. Situated in southern Norway, the glacier is surrounded by Jostedalsbreen Glacier National Park. Many, many years ago, locals could cross the glacier on foot, perhaps herding animals on their way to market, but this isn’t possible today as the glacier has shrunk significantly. Hiking and glacial skiing is allowed, but sportsmen need to be well prepared as these activities can be dangerous. It is much safer, and just as pretty, to take one of the walking tours around the park."
+        }, 
+        {
+            "title": "Viking Ship Museum",
+            "quote": "showcases some of the greatest ninth century ships",
+            "description": "Many centuries ago, the Vikings sailed the northern seas, striking fear in the hearts of the region these fierce warriors were about to invade. Today, visitors can view, unafraid, some of these terror-causing vessels as the Viking Ship Museum in Oslo showcases some of these great ninth century ships. The list includes ships from Gokstad, Oseberg and Tune, including two of the best preserved wooden ships in the world from that era. The Oseberg ship is the best preserved and was found in a burial mound on a farm near Oseberg. The museum also displays textiles, tools and household items as well as items found in Viking tombs."
+        },
+        {
+            "title": "Geirangerfjord",
+            "quote": "a natural wonder of deep blue water",
+            "description": "The most famous tourist attractions in Norway are probably it fjords. Among the most beautiful of these fjords is Geirangerfjord, located in southwestern Norway near the coastal town of Ålesund. Stretching for more than 15 km (9 miles) long, Geirangerfjord is a natural wonder of deep blue water surrounded by majestic cliffs and lush green mountains towering more than 1,000 meters (3,500 feet) high. Adding to the spectacular scenery are several stunning waterfalls and lush countryside dotted with picturesque farms."
+        }
+    ],
+    
+    "images": {
+        [
+            "https://upload.wikimedia.org/wikipedia/commons/e/e6/Nidaros-cathedral-west-front.jpg",
+            "http://glacierhub.org/wp-content/uploads/2016/04/455405648_c8e098de59_o.jpg",
+            "http://www.lostshipofthedesert.com/wp-content/uploads/2016/08/weird-things-people-buried-with-s2048x1399-p.jpg",
+            "https://res-3.cloudinary.com/simpleview/image/upload/c_limit,f_auto,h_1200,q_75,w_1200/v1/clients/norway/unesco-geirangerfjord-skagefla-waterfall_bd5e3234-a7f8-4616-a6cf-ed8a4a1fab9e.jpg"
+        ]
     }
-]
